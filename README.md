@@ -18,6 +18,15 @@ make (or) gcc -o search search.c
 ### Run
 make run (or) ./search Arguments
 
+## Run f Flag
+make run_Fflag
+
+## Run e Flag
+run_eflag
+
+## Run E flag
+run_Eflag
+
 ## References: 
 Lab-05
 https://www.tutorialspoint.com/c_standard_library/c_function_strstr.htm
