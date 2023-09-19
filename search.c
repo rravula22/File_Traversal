@@ -1,9 +1,4 @@
-/* 
-Name: Rakesh Ravula
-BlazerId: rravula
-To compile: gcc -o search ./search.c (or) make
-To run: ./search ./projects -S -s 1024 -f docx 3 (or) make run
-*/ 
+
 #include <stdio.h> 
 #include <stdlib.h>
 #include <dirent.h> 
